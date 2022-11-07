@@ -122,7 +122,6 @@ ul {
   padding: 0;
   background: var(--bgc-hero);
   background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(../img/hero_bg_img.jpg);
-  background-position: center;
 }
 .hero-block {
   display: flex;
